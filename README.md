@@ -1,4 +1,7 @@
 # ✈️ Airport Management System with Chatbot
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![MySQL](https://img.shields.io/badge/MySQL-Database-orange)
+![NLP](https://img.shields.io/badge/NLP-spaCy-green)
 
 An Airport Management System built using **Python** and **MySQL**, featuring a smart **NLP-based chatbot** that allows users to manage airport operations through natural language commands and a menu interface.
 
@@ -148,6 +151,10 @@ menu
 
 ## 📸 Demo
 
+### 🤖 NLP Chatbot Interaction
+![NLP Example 1](assets/nlp1.png)
+![NLP Example 2](assets/nlp2.png)
+
 ### 🖥️ Main Menu
 ![Main Menu](assets/main-menu.png)
 
@@ -162,10 +169,6 @@ menu
 
 ### 🔐 Security Check
 ![Security Status](assets/menu-securitycheck.png)
-
-### 🤖 NLP Chatbot Interaction
-![NLP Example 1](assets/nlp1.png)
-![NLP Example 2](assets/nlp2.png)
 
 ---
 
