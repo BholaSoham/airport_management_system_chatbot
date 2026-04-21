@@ -149,19 +149,23 @@ menu
 ## 📸 Demo
 
 ### 🖥️ Main Menu
-![Main Menu](mainmenu.png)
+![Main Menu](assets/main-menu.png)
 
-### 📋 Menu Options
-![Menu Example 1](examplemenu1.png)
-![Menu Example 2](examplemenu2.png)
-![Menu Example 3](examplemenu3.png)
-![Menu Example 4](examplemenu4.png)
-![Menu Example 5](examplemenu5.png)
+### 📋 Passenger Management
+![Passenger Module](assets/menu-passenger.png)
 
-### 🤖 Chatbot Interaction
-![NLP Example 1](nlp1.png)
-![NLP Example 2](nlp2.png)
-![NLP Example 3](nlp3.png)
+### ✈️ Flight Management
+![Flight Module](assets/menu-flight.png)
+
+### 🎫 Check-In System
+![Check-In Status](assets/menu-checkin.png)
+
+### 🔐 Security Check
+![Security Status](assets/menu-securitycheck.png)
+
+### 🤖 NLP Chatbot Interaction
+![NLP Example 1](assets/nlp1.png)
+![NLP Example 2](assets/nlp2.png)
 
 ---
 
