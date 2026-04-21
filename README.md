@@ -79,7 +79,6 @@ Airport-Management-System/
 ├── insert_mock_data.py
 ├── airport_db.sql
 ├── airports.csv
-├── requirements.txt
 ├── README.md
 └── .gitignore
 ```
