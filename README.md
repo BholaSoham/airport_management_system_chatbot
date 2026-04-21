@@ -146,6 +146,25 @@ menu
 
 ---
 
+## 📸 Demo
+
+### 🖥️ Main Menu
+![Main Menu](mainmenu.png)
+
+### 📋 Menu Options
+![Menu Example 1](examplemenu1.png)
+![Menu Example 2](examplemenu2.png)
+![Menu Example 3](examplemenu3.png)
+![Menu Example 4](examplemenu4.png)
+![Menu Example 5](examplemenu5.png)
+
+### 🤖 Chatbot Interaction
+![NLP Example 1](nlp1.png)
+![NLP Example 2](nlp2.png)
+![NLP Example 3](nlp3.png)
+
+---
+
 ## 💡 Future Enhancements
 
 * GUI using Tkinter or Flask
