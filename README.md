@@ -1,6 +1,6 @@
-# ✈️ Airport Management System with AI Chatbot
+# ✈️ Airport Management System with Chatbot
 
-An AI-powered Airport Management System built using **Python** and **MySQL**, featuring a smart **NLP-based chatbot** that allows users to manage airport operations through natural language commands.
+An Airport Management System built using **Python** and **MySQL**, featuring a smart **NLP-based chatbot** that allows users to manage airport operations through natural language commands and a menu interface.
 
 ---
 
@@ -14,7 +14,7 @@ At the core of the system is an intelligent assistant named **Heath**, which und
 
 ## 🔥 Key Features
 
-* 🤖 **AI Chatbot (Heath)**
+* 🤖 **Chatbot (Heath)**
 
   * Understands natural language commands
   * Executes backend operations dynamically
