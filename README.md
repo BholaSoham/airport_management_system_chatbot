@@ -43,7 +43,7 @@ At the core of the system is an intelligent assistant named **Heath**, which und
 
 ## 🛠️ Tech Stack
 
-* **Language:** Python 3
+* **Language:** Python 3.13.11
 * **Database:** MySQL
 * **Libraries:**
 
